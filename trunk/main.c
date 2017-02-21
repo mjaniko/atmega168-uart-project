@@ -1,5 +1,5 @@
 /*
-* Mega16Test.c
+* main.c
 *
 * Created: 12/23/2016 2:20:38 PM
 * Author : Mikheil Janiashvili
